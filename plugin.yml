@@ -2,6 +2,7 @@ name: StickPower
 main: MasApip\StickPower\Main
 version: 1.0.0
 api: [3.0.0, 4.0.0]
+depend: FormAPI
 commands:
     stickpower:
         default: true
